@@ -31,3 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-dymon&" alt="dev-dymon" /></p>
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dev-Dymon)](https://github.com/Dev-Dymon/Dev-Dymon)
+
