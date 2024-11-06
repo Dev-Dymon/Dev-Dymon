@@ -32,4 +32,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Dymon&" alt="dev-dymon" /></p>
 
 
-![Most used Langangues](https://github-readme-stats.vercel.app/api/top-langs/?dev-dymon=dev-dymon&theme=tokyonight)
+![Most used Langangues](https://github-readme-stats.vercel.app/api/top-langs/?dev-dymon=dev-dymon/dev-dymon&theme=tokyonight)
