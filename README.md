@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex, Diamond Victor</h1>
+<h1 align="center">Hey 👋, I'm Alex, Diamond Victor</h1>
 <h3 align="center">Full Stack Developer skilled in HTML, CSS, JavaScript, Bootstrap, PHP (Laravel), MySQL, and WordPress. Building dynamic, user-friendly web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-dymon&label=Profile%20views&color=0e75b6&style=flat" alt="dev-dymon" /> </p>
