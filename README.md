@@ -27,9 +27,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-dymon&show_icons=true&locale=en" alt="dev-dymon" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Dymon&" alt="dev-dymon" /></p>
+[![Diamond Alex's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=dev-dymon&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/dev-dymon)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=dev-dymon&theme=algolia&show_icons=true)](https://github.com/dev-dymon)
