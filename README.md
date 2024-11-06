@@ -29,7 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-dymon&show_icons=true&locale=en" alt="dev-dymon" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-dymon&" alt="dev-dymon" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Dymon&" alt="dev-dymon" /></p>
 
 
 [![Top most used Languagess](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dev-dymon)](https://github.com/dev-dymon/dev-dymon)
