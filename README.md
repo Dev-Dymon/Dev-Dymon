@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-dymon&label=Profile%20views&color=0e75b6&style=flat" alt="dev-dymon" /> </p>
 
-- 🌱 I’m currently work with **Laravel and Boostrap**
+- 🌱 I currently work with **Laravel and Boostrap**
 
 - 👯 I’m looking to collaborate on **Open Source, PHP projects, and Wordpress theme development etc.**
 
@@ -27,7 +27,7 @@
 
 
 
-[![Diamond Alex's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=dev-dymon&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/dev-dymon)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-dymon&layout=compact&langs_count=8&theme=algolia&show=css,html)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=dev-dymon&theme=algolia&show_icons=true)](https://github.com/dev-dymon)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=dev-dymon&theme=algolia&show_icons=true)](https://github.com/Dev-Dymon)
