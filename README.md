@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-dymon&label=Profile%20views&color=0e75b6&style=flat" alt="dev-dymon" /> </p>
 
-- 🌱 I currently work with **Laravel and Boostrap**
+- 🌱 I currently work with **Laravel, TailwindCSS and Boostrap**
 
-- 👯 I’m looking to collaborate on **Open Source, PHP projects, and Wordpress theme development etc.**
+- 👯 I’m looking to collaborate on **Open Source, PHP projects, and Laravel etc.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dev-Dymon](https://github.com/Dev-Dymon)
 
