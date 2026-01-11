@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hey 👋, I'm Alex, Diamond Victor (Dev Diamond)</h1>
+<h1 align="center">Hey there 👋, I'm Alex, Diamond Victor (Dev Diamond)</h1>
 <h3 align="center"><br>I'm a Full-Stack Web Developer who loves bringing ideas to life on the web. I really enjoy crafting beautiful and responsive user interfaces with HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, and Vue.js. On the backend, I'm all about building solid, efficient systems using PHP, Laravel, Livewire, SQLite, and MySQL. What really drives me is solving problems in a smart, clean way and making sure the final product is top-notch. Plus, I'm pretty handy with WordPress, which helps me tackle all sorts of content projects easily.</h3><br><br>🔭 I’m currently work with Laravel, Livewire, MySQL or SQLite, TailwindCSS and Boostrap<br><br>👯 I’m looking to collaborate on Open Source, PHP projects, and Laravel etc<br><br>👨‍💻 All of my projects are available at https://github.com/Dev-Dymon<br><br>💬 Ask me about Laravel, PHP, Backend Development, Web development, Wordpress<br><br>📫 How to reach me diamondalex2006@gmail.com
 
 
